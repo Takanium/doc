@@ -1,2 +1,5 @@
-# doc
-Takanium Documentation
+# Takanium Documentation
+Folders contents:
+
+## research
+Takanium research papers.
